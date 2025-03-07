@@ -1,6 +1,10 @@
-# Example JSON Repository
+# Mental Health Repository
 
-This repository contains a JSON file that can be edited by collaborators.
+Accesible at https://hosting.crashkoeck.com/md?location=[location here]
+
+This repository contains 2 JSON files that can be edited by collaborators.
+resources.json - up to 5 phones numbers and associated notes per resource. Add countries as needed
+country_aliases.json - aliases for locations in resources.json
 
 ## How to Contribute
 
