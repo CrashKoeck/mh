@@ -1,0 +1,206 @@
+{
+  "UK": {
+    "URL": "",
+    "general-note": "THE GUARDIAN",
+    "phone-1": "116 123",
+    "phone-1-note": "Samaritans - free, confidential support available 24/7",
+    "phone-2": "111",
+    "phone-2-note": "NHS 111 - urgent mental health assistance"
+  },
+  "United States": {
+    "URL": "",
+    "general-note": "MENTAL HEALTH AMERICA",
+    "phone-1": "988",
+    "phone-1-note": "988 Suicide & Crisis Lifeline - free, confidential support 24/7",
+    "phone-2": "HOME to 741741",
+    "phone-2-note": "Crisis Text Line - connect with a trained crisis counselor"
+  },
+  "Canada": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1-833-456-4566 or text 45645",
+    "phone-1-note": "Talk Suicide Canada - available 4 p.m. to midnight ET for 24/7 support",
+    "phone-2": "1-800-668-6868 or text CONNECT to 686868",
+    "phone-2-note": "Kids Help Phone - youth support"
+  },
+  "Australia": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "13 11 14",
+    "phone-1-note": "Lifeline - 24/7 crisis support and suicide prevention",
+    "phone-2": "1300 22 4636",
+    "phone-2-note": "Beyond Blue - support with anxiety, depression, and suicide prevention"
+  },
+  "India": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1800-599-0019",
+    "phone-1-note": "Kiran Mental Health Rehabilitation Helpline - 24/7 support"
+  },
+  "New Zealand": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1737",
+    "phone-1-note": "National Mental Health and Addiction Helpline - call or text any time to speak with a trained counselor"
+  },
+  "South Africa": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "0800 567 567 or SMS 31393",
+    "phone-1-note": "Suicide Crisis Helpline - for assistance"
+  },
+  "Ireland": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "116 123",
+    "phone-1-note": "Samaritans Ireland - free, confidential support available 24/7"
+  },
+  "Germany": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "0800 111 0 111",
+    "phone-1-note": "Telefonseelsorge - 24/7 support",
+    "phone-2": "0800 111 0 222",
+    "phone-2-note": "Telefonseelsorge - alternative contact"
+  },
+  "France": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "01 45 39 40 00",
+    "phone-1-note": "SOS Suicide - immediate assistance"
+  },
+  "Japan": {
+    "URL": "Tokyo Mental Health",
+    "general-note": "Visit their website for resources and support",
+    "phone-1": "",
+    "phone-1-note": ""
+  },
+  "Singapore": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1-767",
+    "phone-1-note": "Samaritans of Singapore (SOS) - 24/7 crisis support"
+  },
+  "Philippines": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1553 (Luzon-wide landline toll-free)",
+    "phone-1-note": "National Center for Mental Health Crisis Hotline - for assistance"
+  },
+  "Malaysia": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "03-7956 8145 or email sam@befrienders.org.my",
+    "phone-1-note": "Befrienders Kuala Lumpur - for support"
+  },
+  "Nigeria": {
+    "URL": "Mental Health Foundation Nigeria",
+    "general-note": "Visit their website for resources and support",
+    "phone-1": "",
+    "phone-1-note": ""
+  },
+  "Brazil": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "188",
+    "phone-1-note": "Centro de Valorização da Vida (CVV) - 24/7 emotional support"
+  },
+  "Mexico": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "55 5259 8121",
+    "phone-1-note": "SAPTEL - 24/7 emotional support"
+  },
+  "Argentina": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "135 (Greater Buenos Aires)",
+    "phone-1-note": "Centro de Asistencia al Suicida (CAS) - for assistance",
+    "phone-2": "5275-1135 (rest of the country)",
+    "phone-2-note": "Centro de Asistencia al Suicida (CAS) - alternative contact"
+  },
+  "Chile": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "600 360 7777",
+    "phone-1-note": "Salud Responde - health-related inquiries and support"
+  },
+  "Colombia": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "01 8000 113 113",
+    "phone-1-note": "Línea Nacional contra el Suicidio - for assistance"
+  },
+  "Peru": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "113",
+    "phone-1-note": "Línea de Emergencia - immediate support"
+  },
+  "Venezuela": {
+    "URL": "Fundación Amigos en Positivo",
+    "general-note": "Visit their website for resources and support",
+    "phone-1": "",
+    "phone-1-note": ""
+  },
+  "South Korea": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1588-9191",
+    "phone-1-note": "Lifeline Korea - 24/7 crisis support"
+  },
+  "Thailand": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "02 713 6793",
+    "phone-1-note": "Samaritans of Thailand - English-language support"
+  },
+  "Vietnam": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1900 6233",
+    "phone-1-note": "Mental Health Helpline - for assistance"
+  },
+  "Indonesia": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "1500-567",
+    "phone-1-note": "Kementerian Kesehatan RI - mental health support"
+  },
+  "Pakistan": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "0333 406 2829",
+    "phone-1-note": "Umang Pakistan - mental health support"
+  },
+  "Bangladesh": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "+880 960 200 1234",
+    "phone-1-note": "Kaan Pete Roi - emotional support"
+  },
+  "Sri Lanka": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "011 269 6666",
+    "phone-1-note": "Sumithrayo - for assistance"
+  },
+  "Saudi Arabia": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "920033360",
+    "phone-1-note": "National Center for Mental Health Promotion - for support"
+  },
+  "United Arab Emirates": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "800 4673",
+    "phone-1-note": "800Hope - mental health support"
+  },
+  "Qatar": {
+    "URL": "",
+    "general-note": "",
+    "phone-1": "16000",
+    "phone-1-note": "Mental Health Helpline - select language"
+  }
+}
