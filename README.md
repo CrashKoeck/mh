@@ -1,6 +1,6 @@
 # Mental Health Repository
 
-Accesible at https://hosting.crashkoeck.com/md?location=[location here]
+Accesible at https://hosting.crashkoeck.com/md?location=[location_here]
 
 This repository contains 2 JSON files that can be edited by collaborators.
 resources.json - up to 5 phones numbers and associated notes per resource. Add countries as needed
