@@ -5,8 +5,8 @@ Accesible at https://hosting.crashkoeck.com/mh?location=[location_here]
 This is intended to be used with a live chat bot (e.g. Twitch Chat Bot like Firebot or Streamer.bot)
 
 This repository contains 2 JSON files that can be edited by collaborators.
-- resources.json - up to 5 phones numbers and associated notes per resource. Add countries as needed
-- country_aliases.json - aliases for locations in resources.json
+- resources.json - up to 5 phone numbers and associated notes per resource/location. Add countries as needed
+- country_aliases.json - aliases for locations in resources.json. Can be countries, regions, cities, etc
 
 ## How to Contribute
 
