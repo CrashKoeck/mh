@@ -1,6 +1,6 @@
 # Mental Health Repository
 
-Accesible at https://hosting.crashkoeck.com/mh?location=[location_here]
+Accesible at https://hosting.crashkoeck.com/tools/mh?location=[location_here]
 
 This is intended to be used with a live chat bot (e.g. Twitch Chat Bot like Firebot or Streamer.bot)
 
